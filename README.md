@@ -5,7 +5,9 @@
 </div>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/143614636?v=4" alt="Prasad Hiwarkhede" width="200" style="border-radius: 50%; border: 3px solid #36BCF7;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Mad Genius" width="300" style="border-radius: 15px; border: 3px solid #36BCF7;" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF6B6B&center=true&vCenter=true&width=400&lines=Coding+with+passion+%E2%9D%A4%EF%B8%8F;Mad+genius+at+work+%F0%9F%A7%A0%E2%9A%A1;In+love+with+clean+code+%F0%9F%92%96" alt="Passion Typing" />
 </div>
 
 ---
