@@ -29,30 +29,22 @@ const prasad = {
 <table align="center">
 <tr>
 <td align="center">
-
 🔭 **Currently Working On**  
 Freelance Projects & Data Science
-
 </td>
 <td align="center">
-
 🌱 **Learning**  
 Data Science & ML
-
 </td>
 </tr>
 <tr>
 <td align="center">
-
 💬 **Ask Me About**  
 MERN Stack & Web Technologies
-
 </td>
 <td align="center">
-
 ⚡ **Fun Fact**  
 I use tabs over spaces
-
 </td>
 </tr>
 </table>
@@ -91,6 +83,11 @@ I use tabs over spaces
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=HiwarkhedePrasad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+### 📈 GitHub Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiwarkhedePrasad&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
