@@ -87,7 +87,7 @@ I use tabs over spaces
   <img src="https://streak-stats.demolab.com/?user=HiwarkhedePrasad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-### 📈 GitHub Activity Graph
+### 📈 GitHub Activity Graph -
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiwarkhedePrasad&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
