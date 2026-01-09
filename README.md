@@ -96,8 +96,6 @@ I use tabs over spaces
 
 ## 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HiwarkhedePrasad&theme=tokyonight&row=2&column=3" alt="GitHub Trophies" />
 </div>
