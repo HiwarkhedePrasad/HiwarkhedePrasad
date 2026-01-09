@@ -87,7 +87,7 @@ I use tabs over spaces
   <img src="https://streak-stats.demolab.com/?user=HiwarkhedePrasad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-### 📈 GitHub Activity Graph -
+### 📈 GitHub Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiwarkhedePrasad&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
@@ -97,7 +97,7 @@ I use tabs over spaces
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HiwarkhedePrasad&theme=tokyonight&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HiwarkhedePrasad&theme=tokyonight&no-frame=true&no-bg=false&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
