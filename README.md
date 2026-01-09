@@ -20,7 +20,7 @@ const prasad = {
     location: "Remote 🌍",
     experience: "Since 2022",
     currentFocus: "Data Science & Machine Learning",
-    specialization: ["MERN Stack", "Web Development", "API Design"],
+    specialization: ["MERN Stack", "Web Development", "API Design","System Design"],
     motto: "Tabs > Spaces (Fight me! 😄)",
     available: true
 };
