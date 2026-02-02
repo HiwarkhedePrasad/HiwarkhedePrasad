@@ -1,152 +1,103 @@
+
+```markdown
 # Hi there! 👋 I'm Prasad Hiwarkhede
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%F0%9F%92%BB;Remote+Worker+Since+2022+%F0%9F%8C%8D;Currently+Learning+Data+Science+%F0%9F%93%8A" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Mad Genius" width="300" style="border-radius: 15px; border: 3px solid #36BCF7;" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF6B6B&center=true&vCenter=true&width=400&lines=Coding+with+passion+%E2%9D%A4%EF%B8%8F;Mad+genius+at+work+%F0%9F%A7%A0%E2%9A%A1;In+love+with+clean+code+%F0%9F%92%96" alt="Passion Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer+%F0%9F%A7%A0;Full-Stack+Architect+%F0%9F%8F%97%EF%B8%8F;Agentic+AI+Innovator+%F0%9F%A4%96;Drone+Simulation+Expert+%F0%9F%9B%B8" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
+I am a B.Tech candidate in **Artificial Intelligence and Data Science** at **YCCE Nagpur** (Expected 2027). I specialize in building high-performance applications that integrate complex AI workflows with seamless user experiences.
 
 ```javascript
 const prasad = {
-    role: "Full-Stack Freelance Developer",
-    location: "Remote 🌍",
-    experience: "Since 2022",
-    currentFocus: "Data Science & Machine Learning",
-    specialization: ["MERN Stack", "Web Development", "API Design","System Design"],
-    motto: "Tabs > Spaces (Fight me! 😄)",
-    available: true
+    education: "B.Tech in AI & Data Science @ YCCE",
+    experience: "Freelance Developer & Former Intern @ Micro Spectra",
+    specialization: ["Agentic AI", "MERN Stack", "Data Science"],
+    tools: ["LangGraph", "Unreal Engine 5.5", "FastAPI", "Next.js"],
+    achievements: ["Supabase Hackathon Winner", "CIH 2.0 Top 12"],
+    hireable: true
 };
+
 ```
 
-## 💫 Quick Facts
+---
 
-<table align="center">
-<tr>
-<td align="center">
-🔭 **Currently Working On**  
-Freelance Projects & Data Science
-</td>
-<td align="center">
-🌱 **Learning**  
-Data Science & ML
-</td>
-</tr>
-<tr>
-<td align="center">
-💬 **Ask Me About**  
-MERN Stack & Web Technologies
-</td>
-<td align="center">
-⚡ **Fun Fact**  
-I use tabs over spaces
-</td>
-</tr>
-</table>
+## 🏆 Records & Achievements
+
+* 🥇 **Prototype 2.0:** Winner - **Top 7** for "Best Use of Supabase."
+* 🥈 **Central India Hackathon (CIH 2.0):** Ranked in **Top 12** among hundreds of competing teams.
+* 💼 **Professional Internship:** Completed a tenure at **Micro Spectra Software Technologies**, gaining enterprise-level software development experience.
+* 🚀 **Open Source & Freelance:** Actively managing and delivering production-grade web solutions for local and remote clients.
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technical Ecosystem
 
 <div align="center">
 
-### 🎨 Frontend Magic
+### 🧪 Artificial Intelligence & Data Science
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,bootstrap,tailwind,materialui" alt="Frontend Skills" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,pytorch,tensorflow,fastapi,scikit-learn" alt="AI Skills" />
+
+
+
+
+
+<em>Focus: Agentic Workflows, RAG, and Computer Vision</em>
 </p>
 
-### ⚙️ Backend Power
+### 💻 Full-Stack Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,java,cs,dotnet,mongodb,nginx,git" alt="Backend Skills" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongodb,express,react,nodejs,nextjs,tailwind,supabase,redux" alt="Web Skills" />
 </p>
 
-### 🎯 Tools & Others
+### 🎮 Simulation & Systems
+
 <p>
-  <img src="https://skillicons.dev/icons?i=redux,electron,chartjs,illustrator,github" alt="Tools" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcpp,java,unreal,unity,git,docker,nginx" alt="Systems Skills" />
 </p>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📂 Featured Portfolio
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiwarkhedePrasad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiwarkhedePrasad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=HiwarkhedePrasad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-### 📈 GitHub Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiwarkhedePrasad&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
+| Project | Description | Role |
+| --- | --- | --- |
+| **Agentic AI Graph** | Multi-agent orchestration using LangGraph and Python. | Lead Developer |
+| **GhostWatch** | Computer vision-based anti-cheat overlay detector for gaming. | AI Engineer |
+| **Drone Sim (AirSim)** | Physics-based drone navigation in UE5/Unity environments. | Simulation Lead |
+| **SecureStack** | A high-security MERN application with E2E encryption. | Full-Stack Dev |
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Strategic Metrics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HiwarkhedePrasad&theme=tokyonight&no-frame=true&no-bg=false&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiwarkhedePrasad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiwarkhedePrasad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
----
-
-## 🎯 Current Focus Areas
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-**🔥 Active Projects**
-- Building scalable web applications
-- Exploring Data Science applications
-- Contributing to open source
-
-</td>
-<td align="center" width="50%">
-
-**📚 Learning Journey**
-- Advanced Data Science techniques
-- Machine Learning algorithms
-- Modern deployment strategies
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DHiwarkhedePrasad%26theme%3Dtokyonight%26no-frame%3Dtrue%26no-bg%3Dfalse%26row%3D1%26column%3D6" alt="GitHub Trophies" />
+</div>
 
 ---
 
 ## 🤝 Let's Connect!
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/prasad-hiwarkhede-1b779627a)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HiwarkhedePrasad)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prasad.teamxebec.xyz)
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HiwarkhedePrasad&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
-
-<div align="center">
-  <i>⭐️ Don't forget to star repositories you find interesting! ⭐️</i>
-</div>
+```
