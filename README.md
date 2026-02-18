@@ -1,102 +1,82 @@
+# 🚀 Prasad Ramdas Hiwarkhede
+### Full-Stack Developer | Aspiring Data Scientist | AI & Machine Learning Enthusiast
 
-# Hi there! 👋 I'm Prasad Hiwarkhede
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer+%F0%9F%A7%A0;Full-Stack+Architect+%F0%9F%8F%97%EF%B8%8F;Agentic+AI+Innovator+%F0%9F%A4%96;Drone+Simulation+Expert+%F0%9F%9B%B8" alt="Typing SVG" />
-</div>
-
----
-
-## 👨‍💻 About Me
-I am a B.Tech candidate in **Artificial Intelligence and Data Science** at **YCCE Nagpur** (Expected 2027). I specialize in building high-performance applications that integrate complex AI workflows with seamless user experiences.
-
-```javascript
-const prasad = {
-    education: "B.Tech in AI & Data Science @ YCCE",
-    experience: "Freelance Developer & Former Intern @ Micro Spectra",
-    specialization: ["Agentic AI", "MERN Stack", "Data Science"],
-    tools: ["LangGraph", "Unreal Engine 5.5", "FastAPI", "Next.js"],
-    achievements: ["Supabase Hackathon Winner", "CIH 2.0 Top 12"],
-    hireable: true
-};
-
-```
-
----
-
-## 🏆 Records & Achievements
-
-* 🥇 **Prototype 2.0:** Winner - **Top 7** for "Best Use of Supabase."
-* 🥈 **Central India Hackathon (CIH 2.0):** Ranked in **Top 12** among hundreds of competing teams.
-* 💼 **Professional Internship:** Completed a tenure at **Micro Spectra Software Technologies**, gaining enterprise-level software development experience.
-* 🚀 **Open Source & Freelance:** Actively managing and delivering production-grade web solutions for local and remote clients.
-
----
-
-## 🛠️ Technical Ecosystem
-
-<div align="center">
-
-### 🧪 Artificial Intelligence & Data Science
-
-<p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,pytorch,tensorflow,fastapi,scikit-learn" alt="AI Skills" />
-
-
-
-
-
-<em>Focus: Agentic Workflows, RAG, and Computer Vision</em>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Specialist;Data+Science+Innovator;AI+Agent+Architect;Tabs+%3E+Spaces" alt="Typing SVG" />
 </p>
 
-### 💻 Full-Stack Development
+---
 
-<p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmongodb,express,react,nodejs,nextjs,tailwind,supabase,redux" alt="Web Skills" />
+## 🧬 Architectural Overview
+I am a developer operating at the intersection of robust engineering and analytical depth. Currently pivoting from **Full-Stack Freelancing** (MERN) toward **Predictive Analytics and Machine Learning**, my work focuses on building "living" technical ecosystems.
+
+- 📍 **Location:** Shegaon, Maharashtra, India 🇮🇳
+- 🛠️ **Current Focus:** Reinforcement Learning & Low-level Memory Optimization
+- 🔭 **Latest Project:** [ByteWise](https://github.com/HiwarkhedePrasad/mediping) - VS Code extension for C/C++ memory alignment diagnostics.
+
+---
+
+## 🛠️ Technical Stack & Specializations
+
+### 💻 Full-Stack Engineering
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 📊 Data Science & AI (Current Pivot)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+> **The Cost Function of Growth:**
+> $$J(\theta) = -\frac{1}{m} \sum_{i=1}^{m} [y^{(i)} \log(h_\theta(x^{(i)})) + (1-y^{(i)}) \log(1-h_\theta(x^{(i)}))]$$
+
+---
+
+## 📊 Objective Technical Standing
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HiwarkhedePrasad&show_icons=true&theme=dracula&rank_handle=github_rank&show=reviews,discussions_answered,prs_merged,commits" alt="Prasad's GitHub Stats" />
 </p>
 
-### 🎮 Simulation & Systems
+[Image of a terminal-style window displaying code commit statistics and language distribution charts]
 
-<p>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dcpp,java,unreal,unity,git,docker,nginx" alt="Systems Skills" />
+---
+
+## 🕹️ The Interactive Playground
+### ♟️ Play Chess Against My Profile
+You can challenge a Stockfish-powered bot right here in this README!
+- **Click a piece** to start your move. 
+- **View the board:** [Current Game State](https://github.com/HiwarkhedePrasad/HiwarkhedePrasad/issues)
+
+### ✍️ Community Guestbook
+I’ve built a serverless guestbook using GitHub Actions. 
+**[Sign my Guestbook Here](https://github.com/HiwarkhedePrasad/HiwarkhedePrasad/issues/new?template=guestbook.yml)** to leave a message on this profile!
+
+---
+
+## 🕒 Real-Time Data Streams
+### ☁️ Environmental Sync: Shegaon, IN
+| Temperature | Condition | Sunrise |
+| :--- | :--- | :--- |
+| Loading... | Fetching Data... | --:-- |
+
+### 🎧 Behavioral Metrics (Spotify & WakaTime)
+[![Spotify](https://novatorem-spotify-readme.vercel.app/api/now-playing?open)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HiwarkhedePrasad&layout=compact&theme=vision-friendly-dark" alt="Wakatime Stats" />
 </p>
 
-</div>
+---
+
+## 🏙️ Contribution Cityscape
+[Image of an isometric 3D contribution graph where GitHub commits are rendered as skyscrapers]
+![Isometric Contributions](https://github-github-contribution-graph-action.vercel.app/api?username=HiwarkhedePrasad&theme=dracula)
 
 ---
 
-## 📂 Featured Portfolio
-
-| Project | Description | Role |
-| --- | --- | --- |
-| **Agentic AI Graph** | Multi-agent orchestration using LangGraph and Python. | Lead Developer |
-| **GhostWatch** | Computer vision-based anti-cheat overlay detector for gaming. | AI Engineer |
-| **Drone Sim (AirSim)** | Physics-based drone navigation in UE5/Unity environments. | Simulation Lead |
-| **SecureStack** | A high-security MERN application with E2E encryption. | Full-Stack Dev |
+## 📬 Connect with the Nexus
+- **Email:** phiwarkhede05@gmail.com
+- **LinkedIn:** [Prasad Hiwarkhede](https://linkedin.com/in/YOUR_LINKEDIN)
+- **GitHub:** [@HiwarkhedePrasad](https://github.com/HiwarkhedePrasad)
 
 ---
-
-## 📊 Strategic Metrics
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiwarkhedePrasad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiwarkhedePrasad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DHiwarkhedePrasad%26theme%3Dtokyonight%26no-frame%3Dtrue%26no-bg%3Dfalse%26row%3D1%26column%3D6" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
-
-```
+<p align="center">
+  <i>This README updates every 15 minutes via GitHub Actions. Built with 💻 and ☕ in Shegaon.</i>
+</p>
