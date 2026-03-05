@@ -98,10 +98,9 @@ I am a Full-Stack Engineer and Data Science researcher specializing in bridging 
 
 | Event / Milestone | Rank / Achievement | Project Focus |
 | --- | --- | --- |
-| **Smart India Hackathon (SIH) 2025** | 🏆 Winner | Gov-Tech Innovation |
 | **Central India Hackathon 3.0** | 🚀 Top 7 (SDG 9) | Drone Simulation / AI |
 | **CIH 2.0 (2024)** | 🥉 4th Place | Web3/Security |
-| **Alexler (Nagpur)** | Data Analyst Intern | Financial Data Modeling |
+
 
 ---
 
