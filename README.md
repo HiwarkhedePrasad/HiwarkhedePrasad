@@ -30,7 +30,6 @@ $ cat user_profile.json
   ],
   "philosophy": "Tabs > Spaces && Data > Opinions"
 }
-
 ```
 
 I am a Full-Stack Engineer and Data Science researcher specializing in bridging the gap between high-level web interfaces and low-level system performance. My work ranges from building secure communication protocols to optimizing C++ memory layouts for embedded environments.
@@ -163,7 +162,6 @@ $ curl -X POST [https://api.hiwarkhede.sys/guestbook](https://api.hiwarkhede.sys
 ## 📜 System Logs (Recent Activity)
 
 * 🛠 Developed a new algorithm for struct padding in **ByteWise**.
-* 🏆 Won **SIH 2025** with a team of 6 engineers.
 * 📖 Researching **Agentic AI** frameworks for autonomous research bots.
 * 🚁 Optimized drone flight paths for disaster simulation in **Unity**.
 * 🚀 Deployed **Chat-Secure** with end-to-end WebSocket encryption.
@@ -191,5 +189,4 @@ if __name__ == "__main__":
 <p align="center">
 <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dauto%26height%3D100%26section%3Dfooter" />
 </p>
-
 ```
