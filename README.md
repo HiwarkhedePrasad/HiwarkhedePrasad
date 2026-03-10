@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Prasad+Hiwarkhede+👋;Full-Stack+%7C+AI%2FML+%7C+Desktop+Dev;Building+things+that+matter+🚀;RAG+Systems+%7C+Security+Tools+%7C+.NET)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Prasad+Hiwarkhede;Full-Stack+%7C+AI%2FML+%7C+Desktop+Dev;Building+things+that+matter;RAG+Systems+%7C+Security+Tools+%7C+.NET)](https://git.io/typing-svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=HiwarkhedePrasad&color=blueviolet&style=flat-square&label=Profile+Views)
 
@@ -67,24 +67,16 @@ I've competed in international challenges like the **NASA Space App Challenge** 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HiwarkhedePrasad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prasad's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiwarkhedePrasad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=HiwarkhedePrasad&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <img src="https://github-contrib-stats.vercel.app/api/top-langs/?username=HiwarkhedePrasad&layout=compact&theme=radical" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HiwarkhedePrasad&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=HiwarkhedePrasad&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiwarkhedePrasad&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HiwarkhedePrasad&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
