@@ -67,12 +67,12 @@ I've competed in international challenges like the **NASA Space App Challenge** 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=HiwarkhedePrasad&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-contrib-stats.vercel.app/api/top-langs/?username=HiwarkhedePrasad&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HiwarkhedePrasad&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiwarkhedePrasad&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HiwarkhedePrasad&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=HiwarkhedePrasad&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
